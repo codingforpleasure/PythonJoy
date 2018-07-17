@@ -1,5 +1,5 @@
 from __future__ import unicode_literals
-import HspellPy # Python wrapper for Hspell ssss    
+import HspellPy # Python wrapper for Hspell
 import itertools
 import sys
 
